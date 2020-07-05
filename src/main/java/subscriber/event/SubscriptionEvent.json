@@ -1,0 +1,34 @@
+{
+  "generated" : "2018-08-02T12:00+0000",
+  "event" : {
+    "walltime" : "2018-08-02T12:00+0000",
+    "code" : 0,
+    "id" : 7270574,
+    "created" : "2018-08-02T12:00+0000",
+    "subscription_id" : 4257538,
+    "subscription" : "http://capi.ocean-insights.com/containertracking/v2/subscriptions/4257538/",
+    "details" : {
+      "new_status" : 2,
+      "new_status_verbose" : "completed",
+      "message" : "Status changed to: completed"
+    },
+    "severity" : 0
+  },
+  "security_token" : "62bba006bed294a6e8ebb9978a4c7d24e3ce6c5e",
+  "subscription" : {
+    "request_type" : "b_id",
+    "status_verbose" : "completed",
+    "modified" : "2018-08-02T11:50+0000",
+    "url" : "http://capi.ocean-insights.com/containertracking/v2/subscriptions/4257538/",
+    "id" : "4257538",
+    "created" : "2018-05-16T09:26+0000",
+    "request_carrier_name" : "Hyundai",
+    "last_actuals_update" : "2018-08-02T10:42+0000",
+    "last_carrier_update" : "2018-08-02T12:00+0000",
+    "owner_internal_id" : "S123456",
+    "suspicious_key" : false,
+    "status" : 1,
+    "request_key" : "YHB0435734",
+    "on_hold" : false
+  }
+}
